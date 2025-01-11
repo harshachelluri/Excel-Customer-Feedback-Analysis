@@ -88,3 +88,13 @@ The company is experiencing a decline in customer satisfaction and wants to iden
 
 3. **Actionable Insights:**  
    Provide clear recommendations to the marketing and product teams for improving customer retention and satisfaction.
+
+
+
+
+
+
+
+
+![Screenshot 2025-01-11 150855](https://github.com/user-attachments/assets/a6824a15-0945-4084-a910-fc4ea759e1d1)
+
